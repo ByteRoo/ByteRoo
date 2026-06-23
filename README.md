@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Chenyang Gong
 
-🎓 **Senior Undergraduate Student, Software Engineering**  
-Jimei University
+🎓 **B.E. in Software Engineering, Jimei University**  
+Currently working as a Software Engineer
 
 🌱 **Research Interests: Deep Learning & Full-stack Systems**
 
